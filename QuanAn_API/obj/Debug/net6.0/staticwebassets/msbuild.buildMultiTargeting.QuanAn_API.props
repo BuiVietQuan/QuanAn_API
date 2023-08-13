@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QuanAn_API.props" />
+</Project>
